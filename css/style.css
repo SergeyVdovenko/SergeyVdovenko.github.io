@@ -97,6 +97,10 @@ header input {
 	height: 25px;
 }
 
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
 #btn_news {
 	width: 100%;
 }
