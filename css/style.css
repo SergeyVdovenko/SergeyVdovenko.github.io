@@ -97,10 +97,7 @@ header input {
 	height: 25px;
 }
 
-    footer {
-      background-color: #f2f2f2;
-      padding: 25px;
-    }
+
 #btn_news {
 	width: 100%;
 }
@@ -153,3 +150,7 @@ header input {
 .btn1_4:hover {color: #000; background-color: #fff;}
 .btn5_9:hover {color: #000; background-color: #f5f7f8; border: 1px solid grey;}
 
+    footer {
+      background-color: #f2f2f2;
+      padding: 2px;
+    }
